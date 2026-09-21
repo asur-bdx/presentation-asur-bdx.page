@@ -6,6 +6,8 @@ Pleinement intégrées à ce processus, ces instances locales contribueront à l
 
 Parallèlement, ces réunions constituent une occasion précieuse de fédérer **un mouvement** qui procède des établissements eux-mêmes et des diverses communautés d’enseignement et de recherche. S’émancipant du cadre fixé par les sociétés savantes, cette dynamique autonome pourrait se doter d’une organisation spécifique. Dans cette perspective, les débats parlementaires sur le projet de loi de finances — prévus à la mi-octobre, à la veille des vacances de la Toussaint — représentent un moment stratégique. En s’appuyant sur un réseau national, les participantes et participants de chaque campus auraient ainsi l’opportunité d’imaginer et de proposer de nouveaux modes d’action.
 
+Retrouvez les actes ([PDF](https://agorasur.fr/wp-content/uploads/2026/09/Actes_Colloque_Assises.pdf)], le compte rendu ([PDF](https://github.com/cpesr/assises/blob/main/Assises-CR-Colloque.pdf)) et les vidéos ([youtube](https://www.youtube.com/@politiquedessciences7602/streams)) du colloque de lancement des assises nationales qui se sont déroulées les 03 et 04 Septembre 2026 à Paris.
+
 # Venez partager, proposer, débattre
 
 ## Où ?
@@ -21,13 +23,21 @@ Mardi 06 Octobre à partir de 12h30
 # Programme
 
 12h30 - 13h45: Session 1: Refondation des missions
+
 Détails à venir
+
 14h00 - 15h15: Session 2: Financement de l'Enseignement Supérieur et Recherche
+
 Détails à venir
+
 15h30 - 16h45: Session 3: Résorption de la précarité
+
 Détails à venir
+
 17h00 - 18h15: Session 4: Réponses aux défis climatiques
+
 Détails à venir
+
 18h30 - 19h30: Restitution + "Et après?"
 
 # Inscrivez-vous pour recevoir les informations
