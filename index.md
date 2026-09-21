@@ -38,7 +38,7 @@ Détails à venir
 
 Détails à venir
 
-17h00 - 18h15: Session 4: Réponses aux défis climatiques
+17h00 - 18h15: Session 4: Réponses aux défis écologiques
 
 Détails à venir
 
