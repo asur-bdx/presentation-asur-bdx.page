@@ -1,4 +1,6 @@
-# "Ce que nous rêvons. Ce que nous voulons."
+# Les Assises locales pour l'Université et pour la Recherche
+
+## "Ce que nous rêvons. Ce que nous voulons."
 
 Portées par une trentaine de sociétés savantes et soutenues par de nombreux associations et collectifs, les Assises pour l’Université et pour la Recherche ont pour ambition de produire et de diffuser un Livre blanc conçu par la communauté académique. Par l’intermédiaire de leur conseil scientifique, ces sociétés savantes sont garantes de la rigueur de la démarche et de sa stricte indépendance vis-à-vis des partis politiques. L’élaboration de ce document se veut le point de départ d’un vaste débat public sur les politiques d’enseignement supérieur et de recherche. Dans ce dispositif, les déclinaisons locales des Assises jouent un rôle fondamental en offrant, au sein des villes universitaires, des espaces de rencontre, de délibération et d’action.
 
@@ -8,19 +10,19 @@ Parallèlement, ces réunions constituent une occasion précieuse de fédérer *
 
 Retrouvez les actes ([PDF](https://agorasur.fr/wp-content/uploads/2026/09/Actes_Colloque_Assises.pdf)], le compte rendu ([PDF](https://github.com/cpesr/assises/blob/main/Assises-CR-Colloque.pdf)) et les vidéos ([youtube](https://www.youtube.com/@politiquedessciences7602/streams)) du colloque de lancement des assises nationales qui se sont déroulées les 03 et 04 Septembre 2026 à Paris.
 
-# Venez partager, proposer, débattre
+## Venez partager, proposer, débattre
 
-## Où ?
+### Où ?
 
 Amphi A29 sur le campus Talence:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6391.487098343751!2d-0.6017494666680177!3d44.80757583346094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5527a5c9b0ab25%3A0xc163d97965dc1fc!2sB%C3%A2timent%20Licence%20-%20A29!5e0!3m2!1sfr!2sfr!4v1789990601813!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-## Quand ?
+### Quand ?
 
 Mardi 06 Octobre à partir de 12h30
 
-# Programme
+## Programme
 
 12h30 - 13h45: Session 1: Refondation des missions
 
@@ -40,7 +42,7 @@ Détails à venir
 
 18h30 - 19h30: Restitution + "Et après?"
 
-# Inscrivez-vous pour recevoir les informations
+## Pour recevoir les informations
 
-[Formulaire](https://grist.numerique.gouv.fr/o/asur-bordeaux-2026/forms/3sCn2n4zs9DQtWN8qsdHfY/55)
+Inscrivez-vous sur le [Formulaire](https://grist.numerique.gouv.fr/o/asur-bordeaux-2026/forms/3sCn2n4zs9DQtWN8qsdHfY/55) !
 
