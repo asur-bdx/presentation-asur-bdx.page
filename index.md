@@ -1,5 +1,3 @@
-## Les Assises locales pour l'Université et pour la Recherche
-
 ## "Ce que nous rêvons. Ce que nous voulons."
 
 Portées par une trentaine de sociétés savantes et soutenues par de nombreux associations et collectifs, les Assises pour l’Université et pour la Recherche ont pour ambition de produire et de diffuser un Livre blanc conçu par la communauté académique. Par l’intermédiaire de leur conseil scientifique, ces sociétés savantes sont garantes de la rigueur de la démarche et de sa stricte indépendance vis-à-vis des partis politiques. L’élaboration de ce document se veut le point de départ d’un vaste débat public sur les politiques d’enseignement supérieur et de recherche. Dans ce dispositif, les déclinaisons locales des Assises jouent un rôle fondamental en offrant, au sein des villes universitaires, des espaces de rencontre, de délibération et d’action.
