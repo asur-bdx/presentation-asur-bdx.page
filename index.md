@@ -1,4 +1,4 @@
-# Les Assises locales pour l'Université et pour la Recherche
+## Les Assises locales pour l'Université et pour la Recherche
 
 ## "Ce que nous rêvons. Ce que nous voulons."
 
