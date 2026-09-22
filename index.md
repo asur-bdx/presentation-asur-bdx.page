@@ -16,7 +16,7 @@ Retrouvez les actes ([PDF](https://agorasur.fr/wp-content/uploads/2026/09/Actes_
 
 ### Où ?
 
-Amphi A29 sur le campus Talence:
+Amphi A, Bâtiment A29, Campus Talence:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6391.487098343751!2d-0.6017494666680177!3d44.80757583346094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5527a5c9b0ab25%3A0xc163d97965dc1fc!2sB%C3%A2timent%20Licence%20-%20A29!5e0!3m2!1sfr!2sfr!4v1789990601813!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
