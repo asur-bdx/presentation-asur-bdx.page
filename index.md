@@ -34,11 +34,11 @@ Détails à venir
 
 Détails à venir
 
-15h30 - 16h45: Session 3: Résorption de la précarité
+15h30 - 16h45: Session 3: Réponses aux défis écologiques
 
 Détails à venir
 
-17h00 - 18h15: Session 4: Réponses aux défis écologiques
+17h00 - 18h15: Session 4: Résorption de la précarité
 
 Détails à venir
 
