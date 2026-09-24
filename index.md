@@ -26,11 +26,11 @@ Mardi 06 Octobre à partir de 12h30
 
 ## Programme
 
-12h30 - 13h45: Session 1: Refondation des missions
+12h30 - 13h45: Session 1: Financement de l'Enseignement Supérieur et Recherche
 
 Détails à venir
 
-14h00 - 15h15: Session 2: Financement de l'Enseignement Supérieur et Recherche
+14h00 - 15h15: Session 2: Résorption de la précarité
 
 Détails à venir
 
@@ -38,7 +38,7 @@ Détails à venir
 
 Détails à venir
 
-17h00 - 18h15: Session 4: Résorption de la précarité
+17h00 - 18h15: Session 4: Refondation des missions
 
 Détails à venir
 
