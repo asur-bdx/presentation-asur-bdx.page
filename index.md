@@ -44,7 +44,7 @@ Détails à venir
 
 18h30 - 19h30: Restitution + "Et après?"
 
-## Pour recevoir les informations
+## Inscrivez-vous !
 
-Inscrivez-vous sur le [Formulaire](https://grist.numerique.gouv.fr/o/asur-bordeaux-2026/forms/3sCn2n4zs9DQtWN8qsdHfY/55) !
+La **participation** à ces assises est **libre et gratuite** et s'adresse à **tout le personnel académique et aux étudiant·e·s**. Nous avons besoin de visibilité sur le nombre de personnes intéressées donc si vous êtes interessé·e·s, nous vous demandons de vous inscrire via notre **[Formulaire](https://grist.numerique.gouv.fr/o/asur-bordeaux-2026/forms/3sCn2n4zs9DQtWN8qsdHfY/55)**.
 
