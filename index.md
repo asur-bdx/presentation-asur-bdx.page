@@ -30,8 +30,8 @@ Mardi 06 Octobre à partir de 12h30
 
 12h45 - 14h00: Session 1: Financement de l’Enseignement Supérieur et Recherche
 
-  - L. Michel: Quelques faits quantitatifs sur l’Université et la Recherche (15 minutes)
-  - Diffusion de l’exposé de F. Métivier: R&D, CIR et productivité scientifique (12 minutes)
+- L. Michel: Quelques faits quantitatifs sur l’Université et la Recherche (15')
+- Diffusion de l’exposé de F. Métivier: R&D, CIR et productivité scientifique (12')
 
 14h15 - 15h30: Session 2: Refondation des missions \
 Détails à venir
