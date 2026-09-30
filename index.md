@@ -24,6 +24,17 @@ Amphi A, Bâtiment A29, Campus Talence:
 
 Mardi 06 Octobre à partir de 12h30
 
+### De quoi ?
+
+#### Financement de l’Enseignement Supérieur et Recherche
+La dotation globale de fonctionnement versée par l'État (la subvention pour charges de service public) ne permet plus d'équilibrer les budgets, tandis que le budget des laboratoires dépend de plus en plus de concours et d'appels à projets temporaires. En parallèle, d'importants moyens publics sont orientés vers des aides fiscales au secteur privé.
+#### Refondation des missions
+L'accumulation de réformes sur deux décennies a empilé des missions parfois divergentes dans le code de l'éducation (insertion professionnelle immédiate, soutien à l'innovation privée, orientation des lycéens, lutte contre l'échec). L'université se trouve ainsi tiraillée entre un accès universel sans sélection en licence et l'exigence de performances scientifiques au niveau mondial.
+#### Réponses aux défis écologiques
+Bien que la recherche académique soit à l'origine des alerte sur le dérèglement climatique, l'université reste prise au piège d'un modèle à forte empreinte carbone (bâtiments énergivores, trajets aériens, course aux équipements numériques). Aussi, la réorientation des thématiques de recherche et la pratique de l'interdisciplinarité, pourtant indispensables pour appréhender la complexité des crises socio-écologiques, se heurtent à de lourds verrous structurels. La rigidité du découpage disciplinaire traditionnel, le manque de reconnaissance des approches transversales dans les évaluations de carrière, ainsi que la pression des financements de court terme orientés vers l'innovation marchande freinent la capacité des instituts et des laboratoires à faire évoluer leurs objets d'étude vers la soutenabilité.
+#### Résorption de la précarité
+Le fonctionnement universitaire s'appuie massivement sur des contrats précaires et des vacations sous-payées pour assurer les cours et le soutien à la recherche. Côté étudiant, l'absence de protection sociale globale contraint près de la moitié des usagers à cumuler études et travail salarié, ce qui constitue le principal facteur de décrochage et de précarité. La précarité est par ailleurs souvent aggravée par le manque d'inclusivité (étrange·res, racisé·es, genres etc). 
+
 ## Programme
 
 **12H30 - 12h45**: Introduction 
