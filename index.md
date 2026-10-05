@@ -42,13 +42,18 @@ Le fonctionnement universitaire s'appuie massivement sur des contrats précaires
 **12h45 - 14h00**: Session 1: Financement de l’Enseignement Supérieur et Recherche
 
 • L. Michel: *Quelques faits quantitatifs sur l’Université et la Recherche* (15') \
-• Diffusion de l’exposé de F. Métivier: *R&D, CIR et productivité scientifique* (12')
+• Diffusion de l’exposé de F. Métivier: *R&D, CIR et productivité scientifique* (12') \
+• Discussions
 
 **14h15 - 15h30**: Session 2: Refondation des missions \
 Détails à venir
 
 **15h45 - 17h00**: Session 3: Réponses aux défis écologiques \
-Détails à venir
+
+• Contexte environnemental (5') \
+• Causes et conséquences sociales (5') \
+• Témoignages et échanges : initiatives et difficultés (20') \
+• Débat (45')
 
 **17h15 - 18h30**: Session 4: Résorption de la précarité \
 Détails à venir
