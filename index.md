@@ -62,9 +62,9 @@ Le fonctionnement universitaire s'appuie massivement sur des contrats précaires
 • Témoignages et échanges : initiatives et difficultés (20') \
 • Débat (45')
 
-**17h15 - 18h30**: Session 4: Résorption de la précarité \
+**17h15 - 18h30**: Session 4: Résorption de la précarité
 
-• Introduction (5')
+• Introduction (5') \
 • Diffusion de l’exposé de P. Maillard: *Réduire la précarité tout en défendant l'emploi statutaire.* (15') \
 • Témoignage (4') \
 • Débat (45')
