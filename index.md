@@ -45,8 +45,15 @@ Le fonctionnement universitaire s'appuie massivement sur des contrats précaires
 • Diffusion de l’exposé de F. Métivier: *R&D, CIR et productivité scientifique* (12') \
 • Discussions
 
-**14h15 - 15h30**: Session 2: Refondation des missions \
-Détails à venir
+**14h15 - 15h30**: Session 2: Refondation des missions
+
+• Introduction (2') \
+• Cartographie des controverses (10') \
+• Flash talks (12') \
+• Débat \
+      *· Choix de 3 contreverses avec l'assemblée (3')* \
+      *· Echanges sur les contreverses choisies (3 x 15')* \
+• Bilan des échanges (3')
 
 **15h45 - 17h00**: Session 3: Réponses aux défis écologiques
 
