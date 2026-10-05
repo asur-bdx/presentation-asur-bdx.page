@@ -48,7 +48,7 @@ Le fonctionnement universitaire s'appuie massivement sur des contrats précaires
 **14h15 - 15h30**: Session 2: Refondation des missions \
 Détails à venir
 
-**15h45 - 17h00**: Session 3: Réponses aux défis écologiques \
+**15h45 - 17h00**: Session 3: Réponses aux défis écologiques
 
 • Contexte environnemental (5') \
 • Causes et conséquences sociales (5') \
