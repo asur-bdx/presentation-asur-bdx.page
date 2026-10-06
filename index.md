@@ -43,6 +43,8 @@ Le fonctionnement universitaire s'appuie massivement sur des contrats précaires
 
 • L. Michel: *Quelques faits quantitatifs sur l’Université et la Recherche* (15') \
 • Diffusion de l’exposé de F. Métivier: *R&D, CIR et productivité scientifique* (12') \
+• Najim Mohamed: *Fiscalité et financement de la recherche : sortir
+du cadre dominant* \
 • Discussions
 
 **14h15 - 15h30**: Session 2: Refondation des missions
